@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "fabric",
+  "version": "0.0.1",
+  "description": "fabric",
+  "license": "MIT",
+  "repository": "https://github.com/johan-gorter/fabric",
+  "author": {
+    "name": "Johan Gorter",
+    "email": "johan@johangorter.com",
+    "url": "https://github.com/johan-gorter"
+  },
+  "keywords": [],
+  "dependencies": {
+    "maquette": "^1.6.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^1.9.0",
+    "browserify": "^9.0.8",
+    "chai": "^2.2.0",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-mocha": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.1",
+    "mocha": "^2.2.4",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
